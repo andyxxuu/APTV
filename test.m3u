@@ -8,6 +8,18 @@ http://liveshowbak2.kan0512.com/norecord/norecord_sbs3.m3u8
 http://liveshowbak2.kan0512.com/norecord/norecord_sbs4.m3u8
 #EXTINF:-1 tvg-name="苏州生活资讯"  group-title="苏州频道",苏州生活资讯
 http://liveshowbak2.kan0512.com/norecord/norecord_sbs5.m3u8
+#EXTINF:-1 tvg-name="翡翠台（原版）"  group-title="港澳台频道",翡翠台（原版）
+http://iptviptv.site:9694/hls/98/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台"  group-title="港澳台频道",翡翠台
+http://iptviptv.site:9694/hls/99/index.m3u8
+#EXTINF:-1 tvg-name="明珠台"  group-title="港澳台频道",明珠台
+http://iptviptv.site:9694/hls/103/index.m3u8
+#EXTINF:-1 tvg-name="凤凰香港"  group-title="港澳台频道",凤凰香港
+http://iptviptv.site:9694/hls/730/index.m3u8
+#EXTINF:-1 tvg-name="凤凰中文"  group-title="港澳台频道",凤凰中文
+http://iptviptv.site:9694/hls/731/index.m3u8
+#EXTINF:-1 tvg-name="凤凰咨询"  group-title="港澳台频道",凤凰咨询
+http://iptviptv.site:9694/hls/732/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV6」",CCTV1「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•央视「IPV6」",CCTV2「IPV6」
