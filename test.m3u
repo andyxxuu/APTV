@@ -1,9 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/andyxxuu/APTV/blob/main/test.m3u"
-苏州新闻综合,http://liveshowbak2.kan0512.com/norecord/tv_csztv1.m3u8
-苏州社会经济,http://liveshowbak2.kan0512.com/norecord/norecord_sbs2.m3u8
-苏州文化生活,http://liveshowbak2.kan0512.com/norecord/norecord_sbs3.m3u8
-苏州电影娱乐信息,http://liveshowbak2.kan0512.com/norecord/norecord_sbs4.m3u8
-苏州生活资讯,http://liveshowbak2.kan0512.com/norecord/norecord_sbs5.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="苏州新闻综合"  group-title="苏州频道",苏州新闻综合
 http://liveshowbak2.kan0512.com/norecord/tv_csztv1.m3u8
 #EXTINF:-1 tvg-name="苏州社会经济"  group-title="苏州频道",苏州社会经济
